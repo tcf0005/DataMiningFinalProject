@@ -6,7 +6,6 @@ import os
 import glob
 import time
 import random
-import argparse
 import numpy as np
 import torch
 import torch.optim as optim

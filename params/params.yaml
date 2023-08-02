@@ -12,3 +12,9 @@ alpha: 0.2
 patience: 100
 optimizer_type: ADAM
 momentum: 0.9
+
+
+
+
+
+
