@@ -1,0 +1,14 @@
+csv_file: ./CSV_files/test.csv
+disable_cuda: False
+fastmode: False
+random_seed: 71
+max_epochs: 10000
+learning_rate: 0.005
+weight_decay: 0.00005
+hidden: 8
+nb_heads: 8
+dropout: 0.6
+alpha: 0.2
+patience: 100
+optimizer_type: ADAM
+momentum: 0.9
